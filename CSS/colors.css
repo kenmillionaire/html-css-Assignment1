@@ -1,0 +1,34 @@
+
+/*COLORS*/
+
+.dark-background {
+	background-color: #222;
+}
+
+.darker-background {
+	background-color: #171717;
+}
+
+.white-background {
+	background-color: #fff;
+}
+.pink-background {
+	background-color: #fc83a1;
+}
+
+.white {
+	color: #fff;
+}
+
+.pink{
+	color:#ffc0cb;
+}
+.grey {
+	color: #787c8e;
+}
+
+.dark-grey {
+	color: #787c8e;
+}
+
+/*END COLORS*/
